@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Bitcoin",
+    "usd": 2602040952
+  },
+  {
+    "id": 2,
+    "nombre": "Ethereum",
+    "usd": 1342452
+  },
+  {
+    "id": 3,
+    "nombre": "Tether",
+    "usd": 701223430
+  },
+  {
+    "id": 4,
+    "nombre": "BNB",
+    "usd": "342342"
+  },
+  {
+    "id": 5,
+    "nombre": "USD Coin",
+    "usd": "635457"
+  },
+  {
+    "id": 6,
+    "nombre": "Dogecoin",
+    "usd": "9876"
+  }
+]
